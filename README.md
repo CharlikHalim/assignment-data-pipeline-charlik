@@ -18,7 +18,7 @@ Dataset referensi:
 Dataset mentah digunakan sebagai input pipeline. Dataset referensi hanya digunakan untuk memahami struktur data dan membandingkan hasil.
 
 ## 3. Project Structure
-
+```text
 data-pipeline-assignment/
 ├── data/
 │   ├── raw/
@@ -31,6 +31,7 @@ data-pipeline-assignment/
 │   └── data-flow-diagram.png
 ├── README.md
 └── requirements.txt
+```
 
 ## 4. Tools and Libraries
 
